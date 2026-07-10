@@ -118,19 +118,6 @@ JMeter-Performance-Testing
 
 ---
 
-# 📸 Test Evidence
-
-Performance testing evidence is available inside the **Evidence** folder.
-
-Included screenshots:
-
-- Test Plan Setup
-- Choose Flight Recording
-- Purchase Recording
-- Confirmation Recording
-- Recording Controller
-- Summary Report Setup
-- Summary Report Results
 
 # 📸 Test Evidence
 
