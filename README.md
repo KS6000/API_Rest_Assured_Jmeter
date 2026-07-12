@@ -1,6 +1,10 @@
 # 🚀 Jmeter-Performance-Testing
 Apache JMeter Performance Testing Framework using BlazeDemo with HTTP(S) Test Script Recorder, Summary Reports and performance test evidence.
 
+[![JMeter Performance Testing](https://github.com/KS6000/JMeter-Performance-Testing/actions/workflows/jmeter.yml/badge.svg)](https://github.com/KS6000/JMeter-Performance-Testing/actions/workflows/jmeter.yml)
+
+---
+
 ## 📌 Project Overview
 
 This project demonstrates Apache JMeter Performance Testing using the BlazeDemo application.
