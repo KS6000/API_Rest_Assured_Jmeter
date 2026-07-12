@@ -1,0 +1,22 @@
+name: JMeter Performance Testing
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  repository-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify repository structure
+        run: |
+          test -f README.md
+          test -d Evidence
+          test -d Jmeter
+          echo "JMeter Performance Testing repository structure verified successfully."
